@@ -8,3 +8,5 @@ Watch tutorial on Youtube.
 Maintain the latest changes.
 
 What happened?
+
+What have you done today?
