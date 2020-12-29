@@ -6,3 +6,5 @@ First data projects using Matplotlib.
 Watch tutorial on Youtube.
 
 Maintain the latest changes.
+
+What happened?
